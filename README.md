@@ -15,4 +15,5 @@ Esta app esta dirigida al cliente quien puede realizar un pedido con las existen
 
 ### Gracias por ver.
 
-![images]([https://github.com/user-attachments/assets/05644c73-b5c1-4d93-bff0-0d24755992bc](https://dribbble.com/shots/8977728-Dash-Google))
+![original-4d02a26d053c9acd38a38e45d50ec572](https://github.com/user-attachments/assets/3a4ee4ae-c3cc-4689-a09b-1c7cb61113c1)
+
