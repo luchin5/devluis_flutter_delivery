@@ -1,16 +1,18 @@
-# app2025_final
+# App de delivery de agua de mesa 
 
-A new Flutter project.
+Este proyecto lo realice con el lenguaje DART y el framework FLUTTER para la plataforma ANDROID. Use librerías entre las más importantes como:
+- Provider
+- Go_router
+- Firestore
+- Notification_local
+- Google fonts
+- Google maps
+Además de ello separe las peticiones HTTP dentro de los providers , y por consiguiente declare MODELS para poder recibir los datos de la base de datos en POSTGRESQL.
 
-## Getting Started
+## Características 
 
-This project is a starting point for a Flutter application.
+Esta app esta dirigida al cliente quien puede realizar un pedido con las existencias de la empresa. El inicio y registro estan hechos con FIREBASE 
 
-A few resources to get you started if this is your first Flutter project:
+### Gracias por ver.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![images](https://github.com/user-attachments/assets/05644c73-b5c1-4d93-bff0-0d24755992bc)
