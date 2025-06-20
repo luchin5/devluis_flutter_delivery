@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077476958235",
+    "project_id": "app2025v2",
+    "storage_bucket": "app2025v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077476958235:android:fc21bd1e51ef0ba354d8be",
+        "android_client_info": {
+          "package_name": "com.aguasol.appsol_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077476958235-cf139r38t47l9pga1ud0g78qrdhb608q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aguasol.appsol_final",
+            "certificate_hash": "484f48e1d011c3eb6ecfd66a3ad2985566af2b43"
+          }
+        },
+        {
+          "client_id": "1077476958235-nqd4il7ubetl9r214ptd7nm8sh49bp1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aguasol.appsol_final",
+            "certificate_hash": "5228711c217d1c6459bf6ee95bc2c8def63efe20"
+          }
+        },
+        {
+          "client_id": "1077476958235-p4on0q196hmueshfu1rf8d73co9g5c43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_u4gcJEdYGmOU7dLThSjDXVsstN4CQ7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077476958235-p4on0q196hmueshfu1rf8d73co9g5c43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
