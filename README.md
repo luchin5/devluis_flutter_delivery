@@ -7,6 +7,7 @@ Este proyecto lo realice con el lenguaje DART y el framework FLUTTER para la pla
 - Notification_local
 - Google fonts
 - Google maps
+
 Además de ello separe las peticiones HTTP dentro de los providers , y por consiguiente declare MODELS para poder recibir los datos de la base de datos en POSTGRESQL.
 
 ## Características 🥇
